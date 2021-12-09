@@ -8,8 +8,7 @@ session-based recommendation systems (SBRs). False positives provide just as del
 the adaptive module for applying false-positive impact differently in the sequential pattern. We verify that FP-AdaMetric can improve several session-based recommendation models’ performances in terms of Hit Rate (HR), MRR, and NDCG on datasets from several domains including music, movie, and game. Furthermore, we show that the adaptive module plays a much more crucial role in FP-AdaMetric model than in other baselines.
 
 ## Code Information
-The official code will be uploaded at [nc-ai github](https://github.com/nc-ai) as soon as possible after getting company's permission.
-
+The official code will be uploaded to [nc-ai Github](https://github.com/nc-ai) as soon as possible after getting the company's permission.
 ## Paper Information
 We will upload the link to our paper after camera-ready uploading on AAAI 2022 is done.
 
